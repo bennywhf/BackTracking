@@ -1,1 +1,1 @@
-# BackTracking
+This program uses backtracking to find the solution the the Hi-q game (https://en.wikipedia.org/wiki/Peg_solitaire). Simply run the file and follow the instructions and you'll finish the game. Not so easily solvable otherwise.
